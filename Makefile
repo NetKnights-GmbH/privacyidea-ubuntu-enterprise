@@ -1,4 +1,4 @@
-DIRECTORY="/home/cornelius/build"
+BUILD_DIR="/home/cornelius/build"
 
 phony:
 	@echo "Use this to build and publish packages"
